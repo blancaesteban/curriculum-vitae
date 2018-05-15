@@ -1,9 +1,16 @@
 .jumbotron {
     margin-bottom: 0;
-    background-image: url("https://www.desktopbackground.org/download/1680x1050/2010/08/26/70337_circuits-wallpapers-abstract-wallpapers_2560x1600_h.jpg")
 }
 
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
+}
+
+section {
+    padding: 50px;
+}
+
+.timeline {
+    list-style: none;
 }
